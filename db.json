@@ -28,29 +28,5 @@
     "payment_per_hour": 20,
     "hours_to_work": 400,
     "rating_wanted": 3
-  },
-  {
-    "stack": "react",
-    "payment_per_hour": 3,
-    "hours_to_work": 4,
-    "rating_wanted": 1
-  },
-  {
-    "stack": "nux",
-    "payment_per_hour": 67,
-    "hours_to_work": 30000,
-    "rating_wanted": 5
-  },
-  {
-    "stack": "vue",
-    "payment_per_hour": 5,
-    "hours_to_work": 5,
-    "rating_wanted": 5
-  },
-  {
-    "stack": "alpha",
-    "payment_per_hour": 9,
-    "hours_to_work": 13,
-    "rating_wanted": 3
   }
 ]
